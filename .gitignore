@@ -1,0 +1,9 @@
+*.o
+*.out
+*.elf
+*.bin
+build/
+bin/
+obj/
+.vscode/
+*~
