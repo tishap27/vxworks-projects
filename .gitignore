@@ -1,0 +1,26 @@
+# Wind River Workbench / IDE metadata
+.metadata/
+
+# VxWorks build output
+*.o
+*.out
+*.elf
+*.map
+*.lst
+*.a
+*.so
+*.hex
+*.bin
+
+# Build directories
+Debug/
+Release/
+*_partial/
+
+# Wind River project build files
+*.mk
+*.makefile
+Makefile
+
+# Logs
+*.log
