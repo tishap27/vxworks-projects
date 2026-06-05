@@ -24,3 +24,8 @@ Makefile
 
 # Logs
 *.log
+
+# Eclipse / Wind River Workbench IDE files
+.cproject
+.project
+.settings/
